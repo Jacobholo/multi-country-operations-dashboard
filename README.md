@@ -1,20 +1,18 @@
 Multi-Country Operations Dashboard
-Project Overview
+Overview
 This project demonstrates the development of a Power BI dashboard for monitoring operational performance across multiple countries.
 
-The dashboard tracks key performance indicators including:
-
+Countries Covered
+Kenya
+Uganda
+Tanzania
+Zambia
+Key Performance Indicators
 Turnaround Time (TAT)
 Cases Handled
 Revenue Performance
 Conversion Rates
 Country Performance Comparison
-Countries Covered:
-
-Kenya
-Uganda
-Tanzania
-Zambia
 Business Problem
 Management teams often struggle to monitor operational performance across multiple regions from a single view.
 
@@ -28,26 +26,26 @@ Tools Used
 Power BI
 Power Query
 DAX
-Microsoft Excel
 SQL
+Microsoft Excel
 Dashboard Features
 Executive Summary
-KPI cards
-Revenue trends
-Average turnaround time
+KPI Cards
+Revenue Trends
+Average Turnaround Time
 Country Analysis
-Country comparison charts
-Performance ranking
-Trend analysis
+Country Comparison Charts
+Performance Ranking
+Trend Analysis
 Operational Monitoring
-Cases handled
-Conversion rates
-Service level monitoring
+Cases Handled
+Conversion Rates
+Service Level Monitoring
 Key Insights
-Revenue trends can be monitored by country and period.
+Revenue trends can be monitored by country and reporting period.
 Turnaround times can be compared across regions.
 Performance bottlenecks can be identified quickly.
-Portfolio Author
+Author
 Jacob Odundo Holo
 
 Data Analyst | Power BI | SQL | Business Intelligence
