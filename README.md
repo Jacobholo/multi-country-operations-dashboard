@@ -19,6 +19,20 @@ This project demonstrates the development of a Power BI dashboard for monitoring
 - Conversion Rates
 - Country Performance Comparison
 
+- ## Professional Context
+
+This project is inspired by operational reporting and dashboard development work supporting management visibility across Kenya, Uganda, Tanzania and Zambia.
+
+Key areas monitored:
+
+- Valuation Turnaround Time (TAT)
+- Auction Performance
+- Repossession Activity
+- Service Delivery Metrics
+- Operational KPI Tracking
+
+The objective was to provide management with real-time visibility into performance trends and operational efficiency.
+
 ## 🛠 Tools Used
 
 - Power BI
